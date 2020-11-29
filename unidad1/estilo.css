@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+}
+
+.encabezado{
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+}
+
+.seccion{
+    height: 70vh;
+}
+
+#articulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.pie{
+    font-size: 10px;
+    background-color: black;
+    color: white;
+}
+
+.cuadrado{
+    background-color: chocolate;
+    width: 100px;
+    height: 100px;
+}
+
+img{
+    width: 90px;
+    height: 90px
+}
