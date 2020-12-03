@@ -5,6 +5,7 @@ body{
 .cdr{
     width: 300px;
     height: 300px;
+    margin-bottom: 20px;
 }
 
 #c1{
@@ -27,7 +28,7 @@ body{
 
 }
 
-.pie{
+footer{
     background-color: cadetblue;
     text-align: center;
     height: 50px;
